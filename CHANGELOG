@@ -1,0 +1,19 @@
+Phil's Magic 8 Ball
+
+CHANGELOG
+
+v1.0.0a
++All Answers
++First Compile into Executable
+
+v0.0.3a
+-\_/ No input or letter input for age fixed - Will no longer cause crash
++\_/ Symbol input for age will cause System.FormatException error
+
+v0.0.2a
++Child Filter Code
+
+v0.0.1a
++Framework
++Core Programming
++Github Upload
